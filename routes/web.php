@@ -23,7 +23,7 @@ Route::get('/dang-ki','UserController@signup');
 Route::get('/loai-san-pham/{id}','ProductController@getProductByType');
 
 
-
+// Linh moi Push code len Github
 
 
 
