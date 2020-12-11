@@ -22,7 +22,7 @@ Route::get('/dang-ki','UserController@signup');
 
 Route::get('/loai-san-pham/{id}','ProductController@getProductByType');
 
-
+///hien.vo
 
 
 
